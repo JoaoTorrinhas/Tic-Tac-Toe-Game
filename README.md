@@ -15,7 +15,7 @@ pip install pygame
 
 ---
 
-### Run the Game 🎮
+### Play the Game 🎮
 Now run the game with the following command:
 ```bash
 python3 tic_tac_toe_game.py
