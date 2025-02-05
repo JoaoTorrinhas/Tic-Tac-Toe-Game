@@ -22,4 +22,4 @@ python3 tic_tac_toe_game.py
 ```
 
 And then this window will open and the game is ready to play.
-![Tic Tac Toe Preview](Screenshot/Game.png){:width="300px"}
+<img src="Screenshot/Game.png" width="300" height="250">
